@@ -1,3 +1,5 @@
+> 🧩 本 skill 是 [MoYan1638/moyan-skills](https://github.com/MoYan1638/moyan-skills) 系列的一员，更多 skill 看那边。
+
 # popup-layer-ui
 
 弹出层（Popup Layer）选型与设计规范 —— 一份**模型无关、平台无关**的 UI 设计 Skill，可被任何 AI 编码助手加载，也适合人类开发者直接阅读。
